@@ -7,4 +7,4 @@
 
  Day Planner ![homePage.img](./Assets/Screenshot%20(33).png);
 
- URL: 
+ URL: https://carsov2.github.io/planner/
